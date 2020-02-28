@@ -8,3 +8,4 @@
 
 REPORT ZNN_GITCODE.
 Write 'Hello Git'.
+Write 'editiert'.
